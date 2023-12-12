@@ -5,6 +5,4 @@ My summer wine is really made from all these things
 Strawberries, cherries and an angel's kiss in spring
 My summer wine is really made from all these things
 
-88888888888888888888888888888
-some commit in main branch!!!
-88888888888888888888888888888
+Content from main branch =may result to conflict=
